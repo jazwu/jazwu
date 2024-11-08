@@ -61,5 +61,7 @@ I am currently focusing on building secure, performant, and user-friendly applic
   </tr>
 </table>
 
+<!--
 ## Github Stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jazwu&hide=stars&rank_icon=github" />
+-->

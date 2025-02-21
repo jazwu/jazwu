@@ -15,53 +15,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently focusing on building secure, performant, and user-friendly applications from a front-end development perspective. Feel free to reach out if you are seeking front-end expertise to assist with your projects!
+- 🔭 I’m currently working on building microservice apps using Go <a href="https://go.dev/" title="AWS"><img src="icons/go.svg" width='15' height='15'/></a>
+- 🌱 I’m currently learning cloud computing <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.svg" width='15' height='15'/></a>, microservice architecuture, frontend web performance optimization <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="icons/lighthouse.svg" width='15' height='15'/></a>
+- 🔔 [KISS](https://en.wikipedia.org/wiki/KISS_principle), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- 📫 [Let's learn and code together!](mailto:yw7866@nyu.edu)
 
-## About me
-👩‍💻 **Experience**
-- Front-End Engineer, _AIFT_, 2022-2023
+## Tech stack
 
-👩‍🎓 **Education**
-- Master in Computer Science, _New York University_, 2023-2025
-- Bachelor in Artificial Intelligence, _Southeast University_, 2018-2022
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px; font-weight: bold;">OOP:</span>
+  <div>
+    <a href="https://python.org/" title="Python"><img src="icons/python.svg" width='30' height='30'/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="icons/javascript.svg" width='30' height='30'/></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.svg" width='30' height='30'/></a>
+  </div>
+</div>
 
-## Tech Stack
-<table>
-  <tr>
-    <td>Languages</td> 
-    <td>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </td>
-  </tr>
-  <tr>
-    <td>Front-End</td> 
-    <td>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-    </td>    
-  </tr>
-  <tr>
-    <td>Back-End</td> 
-    <td>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    </td>    
-  </tr>
-  <tr>
-    <td>Database</td> 
-    <td>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>    
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px; font-weight: bold;">Frontend:</span>
+  <div>
+    <a href="https://reactjs.org/" title="React"><img src="icons/react.svg" width='30' height='30'/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="icons/html-5.svg" width='30' height='30'/></a>
+    <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcss.svg" width='30' height='30'/></a>
+    <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.svg" width='30' height='30'/></a>
+    <a href="https://www.cypress.io/" title="Cypress"><img src="icons/cypress.svg" width='30' height='30'/></a>
+  </div>
+</div>
 
-<!--
-## Github Stats
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px; font-weight: bold;">Backend:</span>
+  <div>
+    <a href="https://www.djangoproject.com/" title="Django"><img src="icons/django.svg" width='30' height='30'/></a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px; font-weight: bold;">ML/AI:</span>
+  <div>
+    <a href="https://pytorch.org/" title="PyTorch"><img src="icons/pytorch.svg" width='30' height='30'/></a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px; font-weight: bold;">DevOps:</span>
+  <div>
+    <a href="https://git-scm.com/" title="Git"><img src="icons/git.svg" width='30' height='30'/></a>
+    <a href="https://aws.amazon.com/elasticbeanstalk/" title="AWS Elastic Beanstalk"><img src="icons/aws-elastic-beanstalk.svg" width='30' height='30'/></a>
+    <a href="https://travis-ci.org/" title="Travis CI"><img src="icons/travis-ci.svg" width='30' height='30'/></a>
+    <a href="https://github.com/features/actions" title="GitHub Actions"><img src="icons/github-actions.svg" width='30' height='30'/></a>
+  </div>
+</div>
+
+
+
+## Github stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jazwu&hide=stars&rank_icon=github" />
--->
+

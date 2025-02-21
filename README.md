@@ -15,56 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building microservice apps using Go <a href="https://go.dev/" title="AWS"><img src="icons/go.svg" width='15' height='15'/></a>
-- 🌱 I’m currently learning cloud computing <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.svg" width='15' height='15'/></a>, microservice architecuture, frontend web performance optimization <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="icons/lighthouse.svg" width='15' height='15'/></a>
-- 🔔 [KISS](https://en.wikipedia.org/wiki/KISS_principle), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- 🔭 I’m currently working on building microservice apps using Go <a href="https://go.dev/" title="AWS"><img src="icons/go.svg" width='18' height='18'/></a>
+- 🌱 I’m currently learning cloud computing <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.svg" width='18' height='18'/></a>, microservice architecuture, frontend web performance optimization <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="icons/lighthouse.svg" width='18' height='18'/></a>
+- 🔔 Daily reminder: [KISS](https://en.wikipedia.org/wiki/KISS_principle), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - 📫 [Let's learn and code together!](mailto:yw7866@nyu.edu)
 
 ## Tech stack
+- OOP:
+<a href="https://python.org/" title="Python"><img src="icons/python.svg" width='30' height='30' align="center"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="icons/javascript.svg" width='30' height='30' align="center"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.svg" width='30' height='30' align="center"/></a>
 
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px; font-weight: bold;">OOP:</span>
-  <div>
-    <a href="https://python.org/" title="Python"><img src="icons/python.svg" width='30' height='30'/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="icons/javascript.svg" width='30' height='30'/></a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.svg" width='30' height='30'/></a>
-  </div>
-</div>
+- Frontend:
+<a href="https://reactjs.org/" title="React"><img src="icons/react.svg" width='30' height='30' align="center"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="icons/html-5.svg" width='30' height='30' align="center"/></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcss.svg" width='30' height='30' align="center"/></a>
+<a href="https://redux.js.org/" title="Redux"><img src="icons/redux.svg" width='30' height='30' align="center"/></a>
+<a href="https://www.cypress.io/" title="Cypress"><img src="icons/cypress.svg" width='30' height='30' align="center"/></a>
 
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px; font-weight: bold;">Frontend:</span>
-  <div>
-    <a href="https://reactjs.org/" title="React"><img src="icons/react.svg" width='30' height='30'/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="icons/html-5.svg" width='30' height='30'/></a>
-    <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcss.svg" width='30' height='30'/></a>
-    <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.svg" width='30' height='30'/></a>
-    <a href="https://www.cypress.io/" title="Cypress"><img src="icons/cypress.svg" width='30' height='30'/></a>
-  </div>
-</div>
+- Backend:
+<a href="https://www.djangoproject.com/" title="Django"><img src="icons/django.svg" width='30' height='30' align="center"/></a>
 
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px; font-weight: bold;">Backend:</span>
-  <div>
-    <a href="https://www.djangoproject.com/" title="Django"><img src="icons/django.svg" width='30' height='30'/></a>
-  </div>
-</div>
+- ML/AI:
+<a href="https://pytorch.org/" title="PyTorch"><img src="icons/pytorch.svg" width='30' height='30' align="center"/></a>
 
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px; font-weight: bold;">ML/AI:</span>
-  <div>
-    <a href="https://pytorch.org/" title="PyTorch"><img src="icons/pytorch.svg" width='30' height='30'/></a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px; font-weight: bold;">DevOps:</span>
-  <div>
-    <a href="https://git-scm.com/" title="Git"><img src="icons/git.svg" width='30' height='30'/></a>
-    <a href="https://aws.amazon.com/elasticbeanstalk/" title="AWS Elastic Beanstalk"><img src="icons/aws-elastic-beanstalk.svg" width='30' height='30'/></a>
-    <a href="https://travis-ci.org/" title="Travis CI"><img src="icons/travis-ci.svg" width='30' height='30'/></a>
-    <a href="https://github.com/features/actions" title="GitHub Actions"><img src="icons/github-actions.svg" width='30' height='30'/></a>
-  </div>
-</div>
+- DevOps:
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.svg" width='30' height='30' align="center"/></a>
+<a href="https://aws.amazon.com/elasticbeanstalk/" title="AWS Elastic Beanstalk"><img src="icons/aws-elastic-beanstalk.svg" width='30' height='30' align="center"/></a>
+<a href="https://travis-ci.org/" title="Travis CI"><img src="icons/travis-ci.svg" width='30' height='30' align="center"/></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="icons/github-actions.svg" width='30' height='30' align="center"/></a>
 
 
 

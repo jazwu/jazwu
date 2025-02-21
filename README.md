@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 
 
-## Github stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jazwu&hide=stars&rank_icon=github" />
+<!-- ## Github stats
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jazwu&hide=stars&rank_icon=github" /> -->
 

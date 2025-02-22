@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building microservice apps using Go <a href="https://go.dev/" title="AWS"><img src="icons/go.svg" width='18' height='18'/></a>
 - 🌱 I’m currently learning cloud computing <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.svg" width='18' height='18'/></a>, microservice architecuture, frontend web performance optimization <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="icons/lighthouse.svg" width='18' height='18'/></a>
-- 🔔 Daily reminder: [KISS](https://en.wikipedia.org/wiki/KISS_principle), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- 🔔 Daily reminder: [**KISS**](https://en.wikipedia.org/wiki/KISS_principle), [**DRY**](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [**YAGNI**](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - 📫 [Let's learn and code together!](mailto:yw7866@nyu.edu)
 
 ## Tech stack
